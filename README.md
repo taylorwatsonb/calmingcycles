@@ -7,7 +7,7 @@ Calming Cycles is a soothing animation created with p5.js to help ease anxiety a
 
 To run Calming Cycles, you can either view it directly on OpenProcessing or run it locally:
 
-1. View on OpenProcessing:**
+1. View on OpenProcessing:
    - Visit the OpenProcessing website and search for the sketch titled "Calming Cycles."
 
 2. Run Locally:**
